@@ -46,6 +46,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How variable is the utilization by bike ID?
 
-![Dashboard1](Dashboard-1.jpg)
+![Dashboard1](https://github.com/angieglass/tableau-challenge/blob/main/Dashboard-1.png)
 
-![Dashboard2](Dashboard-2.jpg)
+![Dashboard2](https://github.com/angieglass/tableau-challenge/blob/main/Dashboard-2.png)
